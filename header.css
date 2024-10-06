@@ -1,0 +1,72 @@
+/* CSS for header styling */
+#header {
+    background-color: #ffffff; /* Background color of the header */
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1); /* Box shadow */
+    border: 1px solid #e0e0e0; /* Border */
+    border-radius: 8px; /* Border radius */
+    transition: box-shadow 0.3s ease; /* Smooth transition for box shadow */
+}
+
+#header:hover {
+    box-shadow: 0 0 25px rgba(0, 0, 0, 0.2); /* Box shadow on hover */
+}
+
+/* Optional: Adjust padding and margin as needed */
+.header__bar {
+    padding: 10px 0; /* Padding inside the header */
+}
+
+/* Optional: Style for menu items and links */
+.menu-item a {
+    color: #333; /* Link color */
+    text-decoration: none; /* Remove underline */
+    padding: 10px 15px; /* Padding around links */
+    display: inline-block; /* Display links as blocks */
+}
+
+.menu-item a:hover {
+    color: #555; /* Link color on hover */
+}
+
+/* CSS for header styling */
+#header {
+    background-color: #ffffff; /* Background color of the header */
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1); /* Box shadow */
+    border: 1px solid #e0e0e0; /* Border */
+    border-radius: 8px; /* Border radius */
+    transition: box-shadow 0.3s ease; /* Smooth transition for box shadow */
+}
+
+#header:hover {
+    box-shadow: 0 0 25px rgba(0, 0, 0, 0.2); /* Box shadow on hover */
+}
+
+/* Optional: Adjust padding and margin as needed */
+.header__bar {
+    padding: 10px 0; /* Padding inside the header */
+}
+
+/* Optional: Style for menu items and links */
+.menu-item a {
+    color: white; /* Link color */
+    text-decoration: none; /* Remove underline */
+    padding: 10px 15px; /* Padding around links */
+    display: inline-block; /* Display links as blocks */
+    background-color: black;
+}
+
+.menu-item a:hover {
+    color: #555; /* Link color on hover */
+}
+
+
+
+
+
+.menu-item a:hover {
+    background-color: #555; /* Background color on hover */
+    /* color: black; */
+    border-color: #ccc; /* Border color on hover */
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2); /* Enhanced box shadow on hover */
+    transform: translateY(-2px); /* Move the element up slightly on hover */
+}
